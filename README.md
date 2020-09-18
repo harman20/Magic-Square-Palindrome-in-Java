@@ -1,0 +1,1 @@
+# Magic-Square-Palindrome-in-Java
